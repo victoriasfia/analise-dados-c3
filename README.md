@@ -72,11 +72,11 @@ Limpeza de nulos, remoção de outliers extremos (`GrLivArea > 4000` com preço 
 
 | Nome | 
 |---|
-| Anna Luiza |
-| Josué |
+| Anna Luiza Tamanini|
+| Josué Espadarotte |
 | Laisa Camilo |
 | Mikaelly Cardoso |
-| Victória Sophia |
+| Victória Teixeira |
 
 ---
 
